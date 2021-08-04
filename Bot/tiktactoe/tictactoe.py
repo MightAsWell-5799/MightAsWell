@@ -76,7 +76,7 @@ class game():
                 if(horizontal.lower() == "r"):
                     index = index + 2
             
-        print(index)
+        #print(index)
         return index
 
     def win_test(self):
@@ -101,7 +101,6 @@ class game():
             if(position == 0):
                 state = False
         return state
-
 
     def turn_of(self, add):
         #add input is for checking the wins and stating the correct winner
