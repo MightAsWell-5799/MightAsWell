@@ -10,7 +10,7 @@
     "license": "ISC",
     "dependencies": {
         "discord.js": "^12.5.1",
-        "got": "^11.8.2",
+        "got": "^11.8.5",
         "gpu.js": "^2.11.3",
         "jimp": "^0.16.1",
         "quickchart-js": "^1.0.6",
